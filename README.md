@@ -15,7 +15,7 @@ This file is capable of highlighting the functions when you're using Notepad++ t
 
 2. Prerequisites
 ---------
-Notepad++ 5.9.1 or higher
+Notepad++ 6.3.2 or higher
 
 
 3. Installation
@@ -34,7 +34,7 @@ Your script should now be colour-coded.
 4. Troubleshooting
 ---------
 *ASL is not on the menu:-
-	You've not pasted the file in th correct location.
+	You've not pasted the file in the correct location.
 
 There's some functions missing:-
 	Create a new issue at https://github.com/Akkarinage/ASL_Npp_Lang_File/issues
